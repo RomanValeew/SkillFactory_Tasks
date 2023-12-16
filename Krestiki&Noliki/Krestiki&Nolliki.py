@@ -70,5 +70,5 @@ while True:
     elif not draw and not res:
         player = "o" if player == "x" else "x"
     else:
-        print(f"!!!Игрок с {player} выиграл!!!! Поздравляю!:)")
+        print(f"!!!Игрок с {player} выиграл!!! Поздравляю!:)")
         break
